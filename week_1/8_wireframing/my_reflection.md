@@ -10,4 +10,4 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+<!-- Working on my site was surprisingly fun! It was difficult at first to get the hang of it, but after awhile the directions became more clear and I was able to get creative. I never realized how much work went into the layout of a site - it's something I have always taken for granted! I'm having trouble with my style sheets. -->

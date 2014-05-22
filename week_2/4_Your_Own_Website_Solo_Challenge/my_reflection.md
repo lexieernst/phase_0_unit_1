@@ -9,3 +9,5 @@ Discuss the following:
 * What would you like to add or change about the site next?
 * Was it difficult to apply the material you learned? Did you find anything in your research you thought was super cool?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+
+#Working on my site was surprisingly fun! It was difficult at first to get the hang #of it, but after awhile the directions became more clear and I was able to get #creative. I never realized how much work went into the layout of a site - it's #something I have always taken for granted! I'm having trouble with my style sheets. 
